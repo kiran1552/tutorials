@@ -5,7 +5,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.tutorials.model.Category;
 
 /**
- * Created by john on 10/05/2016.
+ * Created by john on 10/05/2016. Add blank Lines. something missing
  */
 public class CategoryNavigationBar extends PageObject{
     public void selectCategory(Category category) {
